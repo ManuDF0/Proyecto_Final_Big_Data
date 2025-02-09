@@ -1,0 +1,131 @@
+entidad
+monto
+n_creditos
+sum_montos
+n_periodos
+monto_relativo
+sin_arca
+default
+prev_default
+sin_historial
+monto_real
+sum_montos_real
+A plazo (incluye inversiones y excluye CEDROS) (en millones de pesos)_mean
+A plazo (incluye inversiones y excluye CEDROS) (en millones de pesos)_std
+BADLAR en pesos de bancos privados (en % e.a.)_mean
+BADLAR en pesos de bancos privados (en % e.a.)_std
+BADLAR en pesos de bancos privados (en % n.a.)_mean
+BADLAR en pesos de bancos privados (en % n.a.)_std
+Base monetaria - Total (en millones de pesos)_mean
+Base monetaria - Total (en millones de pesos)_std
+Billetes y monedas en poder del público (en millones de pesos)_mean
+Billetes y monedas en poder del público (en millones de pesos)_std
+CER (Base 2.2.2002=1)_mean
+CER (Base 2.2.2002=1)_std
+Circulación monetaria (en millones de pesos)_mean
+Circulación monetaria (en millones de pesos)_std
+Depósitos de los bancos en cta. cte. en pesos en el BCRA (en millones de pesos)_mean
+Depósitos de los bancos en cta. cte. en pesos en el BCRA (en millones de pesos)_std
+Depósitos en efectivo en las entidades financieras - Total (en millones de pesos)_mean
+Depósitos en efectivo en las entidades financieras - Total (en millones de pesos)_std
+Efectivo en entidades financieras (en millones de pesos)_mean
+Efectivo en entidades financieras (en millones de pesos)_std
+En Caja de ahorros (en millones de pesos)_mean
+En Caja de ahorros (en millones de pesos)_std
+En cuentas corrientes (neto de utilización FUCO) (en millones de pesos)_mean
+En cuentas corrientes (neto de utilización FUCO) (en millones de pesos)_std
+Inflación esperada - REM próximos 12 meses - MEDIANA (variación en % i.a)_mean
+Inflación interanual (variación en % i.a.)_mean
+Inflación mensual (variación en %)_mean
+M2 privado, promedio móvil de 30 días, variación interanual (en %)_mean
+M2 privado, promedio móvil de 30 días, variación interanual (en %)_std
+Pases pasivos para el BCRA - Saldos (en millones de pesos)_mean
+Pases pasivos para el BCRA - Saldos (en millones de pesos)_std
+Préstamos de las entidades financieras al sector privado (en millones de pesos)_mean
+Préstamos de las entidades financieras al sector privado (en millones de pesos)_std
+Reservas Internacionales del BCRA (en millones de dólares - cifras provisorias sujetas a cambio de valuación)_mean
+Reservas Internacionales del BCRA (en millones de dólares - cifras provisorias sujetas a cambio de valuación)_std
+TM20 en pesos de bancos privados (en % n.a.)_mean
+TM20 en pesos de bancos privados (en % n.a.)_std
+Tasa de Política Monetaria (en % e.a.)_mean
+Tasa de Política Monetaria (en % e.a.)_std
+Tasa de Política Monetaria (en % n.a.)_mean
+Tasa de Política Monetaria (en % n.a.)_std
+Tasa de interés de préstamos personales_mean
+Tasa de interés de préstamos personales_std
+Tasa de interés de préstamos por adelantos en cuenta corriente_mean
+Tasa de interés de préstamos por adelantos en cuenta corriente_std
+Tasa de interés para uso de la Justicia – Comunicado P 14290 | Base 01/04/1991 (en %)_mean
+Tasa de interés para uso de la Justicia – Comunicado P 14290 | Base 01/04/1991 (en %)_std
+Tasas de interés de las operaciones de pase activas para el BCRA, a 1 día de plazo (en % n.a.)_mean
+Tasas de interés de las operaciones de pase activas para el BCRA, a 1 día de plazo (en % n.a.)_std
+Tasas de interés por depósitos a 30 días de plazo en entidades financieras (en % n.a.)_mean
+Tasas de interés por depósitos a 30 días de plazo en entidades financieras (en % n.a.)_std
+Tasas de interés por préstamos entre entidades financiera privadas (BAIBAR) (en % n.a.)_mean
+Tasas de interés por préstamos entre entidades financiera privadas (BAIBAR) (en % n.a.)_std
+Tipo de Cambio Mayorista ($ por USD) Comunicación A 3500 - Referencia_mean
+Tipo de Cambio Mayorista ($ por USD) Comunicación A 3500 - Referencia_std
+Tipo de Cambio Minorista ($ por USD) Comunicación B 9791 - Promedio vendedor_mean
+Tipo de Cambio Minorista ($ por USD) Comunicación B 9791 - Promedio vendedor_std
+Unidad de Valor Adquisitivo (UVA) (en pesos -con dos decimales-, base 31.3.2016=14.05)_mean
+Unidad de Valor Adquisitivo (UVA) (en pesos -con dos decimales-, base 31.3.2016=14.05)_std
+Unidad de Vivienda (UVI) (en pesos -con dos decimales-, base 31.3.2016=14.05)_mean
+Unidad de Vivienda (UVI) (en pesos -con dos decimales-, base 31.3.2016=14.05)_std
+Índice para Contratos de Locación (ICL-Ley 27.551, con dos decimales, base 30.6.20=1)_mean
+Índice para Contratos de Locación (ICL-Ley 27.551, con dos decimales, base 30.6.20=1)_std
+A plazo (incluye inversiones y excluye CEDROS) (en millones de pesos)_mean_real
+A plazo (incluye inversiones y excluye CEDROS) (en millones de pesos)_std_real
+Base monetaria - Total (en millones de pesos)_mean_real
+Base monetaria - Total (en millones de pesos)_std_real
+Billetes y monedas en poder del público (en millones de pesos)_mean_real
+Billetes y monedas en poder del público (en millones de pesos)_std_real
+Circulación monetaria (en millones de pesos)_mean_real
+Circulación monetaria (en millones de pesos)_std_real
+Depósitos de los bancos en cta. cte. en pesos en el BCRA (en millones de pesos)_mean_real
+Depósitos de los bancos en cta. cte. en pesos en el BCRA (en millones de pesos)_std_real
+Depósitos en efectivo en las entidades financieras - Total (en millones de pesos)_mean_real
+Depósitos en efectivo en las entidades financieras - Total (en millones de pesos)_std_real
+Efectivo en entidades financieras (en millones de pesos)_mean_real
+Efectivo en entidades financieras (en millones de pesos)_std_real
+En Caja de ahorros (en millones de pesos)_mean_real
+En Caja de ahorros (en millones de pesos)_std_real
+En cuentas corrientes (neto de utilización FUCO) (en millones de pesos)_mean_real
+En cuentas corrientes (neto de utilización FUCO) (en millones de pesos)_std_real
+Pases pasivos para el BCRA - Saldos (en millones de pesos)_mean_real
+Pases pasivos para el BCRA - Saldos (en millones de pesos)_std_real
+Préstamos de las entidades financieras al sector privado (en millones de pesos)_mean_real
+Préstamos de las entidades financieras al sector privado (en millones de pesos)_std_real
+Tipo de Cambio Mayorista ($ por USD) Comunicación A 3500 - Referencia_mean_real
+Tipo de Cambio Mayorista ($ por USD) Comunicación A 3500 - Referencia_std_real
+Tipo de Cambio Minorista ($ por USD) Comunicación B 9791 - Promedio vendedor_mean_real
+Tipo de Cambio Minorista ($ por USD) Comunicación B 9791 - Promedio vendedor_std_real
+BADLAR en pesos de bancos privados (en % e.a.)_mean_real
+BADLAR en pesos de bancos privados (en % e.a.)_std_real
+BADLAR en pesos de bancos privados (en % n.a.)_mean_real
+BADLAR en pesos de bancos privados (en % n.a.)_std_real
+M2 privado, promedio móvil de 30 días, variación interanual (en %)_mean_real
+M2 privado, promedio móvil de 30 días, variación interanual (en %)_std_real
+TM20 en pesos de bancos privados (en % n.a.)_mean_real
+TM20 en pesos de bancos privados (en % n.a.)_std_real
+Tasa de Política Monetaria (en % e.a.)_mean_real
+Tasa de Política Monetaria (en % e.a.)_std_real
+Tasa de Política Monetaria (en % n.a.)_mean_real
+Tasa de Política Monetaria (en % n.a.)_std_real
+Tasa de interés de préstamos personales_mean_real
+Tasa de interés de préstamos personales_std_real
+Tasa de interés de préstamos por adelantos en cuenta corriente_mean_real
+Tasa de interés de préstamos por adelantos en cuenta corriente_std_real
+Tasa de interés para uso de la Justicia – Comunicado P 14290 | Base 01/04/1991 (en %)_mean_real
+Tasa de interés para uso de la Justicia – Comunicado P 14290 | Base 01/04/1991 (en %)_std_real
+Tasas de interés de las operaciones de pase activas para el BCRA, a 1 día de plazo (en % n.a.)_mean_real
+Tasas de interés de las operaciones de pase activas para el BCRA, a 1 día de plazo (en % n.a.)_std_real
+Tasas de interés por depósitos a 30 días de plazo en entidades financieras (en % n.a.)_mean_real
+Tasas de interés por depósitos a 30 días de plazo en entidades financieras (en % n.a.)_std_real
+Tasas de interés por préstamos entre entidades financiera privadas (BAIBAR) (en % n.a.)_mean_real
+Tasas de interés por préstamos entre entidades financiera privadas (BAIBAR) (en % n.a.)_std_real
+Índice Serie Original 2004=100
+Var % respecto a igual período del año anterior
+Índice Serie Desestacionalizada 2004=100
+Var % respecto al mes anterior
+Índice Serie Tendencia-Ciclo 2004=100
+Var % respecto al mes anterior.1
