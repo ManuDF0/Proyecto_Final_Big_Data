@@ -1,3 +1,5 @@
 *.csv
 *.env
-*.pkl
+network.ipynb
+data_limpio.parquet
+input/data_limpio.parquet

@@ -1,15 +1,18 @@
-entidad
+desde_inicio
 monto
 n_creditos
 sum_montos
 n_periodos
+n_periodos_activo
 monto_relativo
 sin_arca
 default
-prev_default
+prev_default_entidad
+prev_default_general
 sin_historial
 monto_real
 sum_montos_real
+buen_historial
 A plazo (incluye inversiones y excluye CEDROS) (en millones de pesos)_mean
 A plazo (incluye inversiones y excluye CEDROS) (en millones de pesos)_std
 BADLAR en pesos de bancos privados (en % e.a.)_mean
