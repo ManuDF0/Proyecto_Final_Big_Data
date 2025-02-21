@@ -1,5 +1,4 @@
 *.csv
 *.env
 network.ipynb
-data_limpio.parquet
 input/data_limpio.parquet
